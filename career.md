@@ -19,8 +19,8 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
-| Kiến thức | … | … | … | chưa / một phần / rồi |
-| Kỹ năng | … | … | … | … |
+| Kiến thức |Tốt nghiệp Đại học Chính quy loại Khá trở lên, chuyên ngành Công nghệ thông tin| … | … | chưa / một phần / rồi |
+| Kỹ năng | Unit, Integration, System, Regression, Performance và UAT.Sử dụng thành thạo SQL để truy vấn và kiểm tra toàn vẹn dữ liệu (Data Integrity).Sử dụng các công cụ quản lý lỗi (Jira ..) và các công cụ kiểm thử (Postman, Jmeter...).Có tư duy về Security Testing (kiểm thử bảo mật) là một lợi thế.Biết về Automation (Selenium, Appium) Tư duy logic tốt, cẩn trọng và có tinh thần trách nhiệm cao với sản phẩm.Kỹ năng giải quyết vấn đề và quản lý thời gian hiệu quả dưới áp lực dự án.Khả năng giao tiếp, truyền đạt và thuyết phục tốt.| … | … | … |
 | Thái độ | … | … | … | … |
 | Công cụ | … | … | … | … |
 
