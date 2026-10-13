@@ -4,10 +4,9 @@ title: Cẩm nang làm việc nhóm
 
 # Cẩm nang làm việc nhóm
 
-> **Bài 3 · Xoá dòng này khi nộp.** Đây là sản phẩm của **cả nhóm**,
-> nhưng mỗi người ký tên vào phần mình chịu trách nhiệm.
+> **Bài 3
 
-**Nhóm:** … · **Thành viên:** …
+**Nhóm:** Chăm viết code · **Thành viên:** Phạm Văn Hùng
 
 ## Cẩm nang vấn đề nhóm đã giải quyết
 
@@ -17,105 +16,114 @@ title: Cẩm nang làm việc nhóm
 
 Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứng ban đầu để thấy nhóm đã bóc từ đâu ra.
 
-**Triệu chứng ban đầu (câu nhóm nói ra đầu tiên):** …
+**Triệu chứng ban đầu (câu nhóm nói ra đầu tiên):**Nhóm mình làm bài nhóm lúc nào cũng gấp, toàn thức đêm chạy deadline.
 
-**Vấn đề thật (sau khi bóc):** …
-
-*Người viết phần này: …*
+**Vấn đề thật (sau khi bóc):** Hơn 70% khối lượng công việc của nhóm diễn ra trong 48 giờ cuối trước hạn nộp, vì không ai biết rõ phần việc của mình bao gồm những gì, và hạn nội bộ của từng phần không tồn tại. Hệ quả là bài ghép lại lệch giọng văn, trùng nội dung, và không còn thời gian sửa.
+*Người viết phần này: Phạm Văn Hùng*
 
 ### 2. Cách đo và số liệu
 
 Đo bằng cách nào, mấy ngày, mấy người, con số ra sao. Có bảng.
 
-**Cách đo:** … · **Số ngày đo:** … · **Số người tham gia đo:** …
+**Cách đo:** Thống kê số lượng thành viên tương tác, trao đổi và tiến độ gửi bài tập trong nhóm Zalo của dự án.  
+**Số ngày đo:** 7 ngày · **Số người tham gia đo:** 3 người  
 
 | Ngày | Số liệu đo được | Ghi chú |
 |---|---|---|
-| … | … | … |
-| … | … | … |
-| … | … | … |
+| Ngày 1 | 5/5 người | Các bạn cùng nhau bàn bạc về vấn đề. |
+| Ngày 4 | 3/5 người | Gửi các bài tập dần dần còn mấy bạn kia thì không thấy động tĩnh. |
+| Ngày 6 | 3/5 người | Các bạn thi nhau nhắn hỏi lên nhóm: "Bây giờ làm cái gì?", "Làm thế nào?". |
+| Ngày 7 | 3/5 người | Chỉ có 3 người gánh vác việc hoàn thiện, ghép bài và thức đêm nộp đúng deadline. |
 
-*Người viết phần này: …*
+*Người viết phần này:Nguyễn Trọng Sơn*
 
 ### 3. Nguyên nhân gốc
 
 Chuỗi năm lần hỏi "vì sao", ghi đủ từng lớp.
 
-1. Vì sao [vấn đề xảy ra]? → …
-2. Vì sao [câu trả lời 1]? → …
-3. Vì sao [câu trả lời 2]? → …
-4. Vì sao [câu trả lời 3]? → …
-5. Vì sao [câu trả lời 4]? → … *(nguyên nhân gốc)*
+1. Vì sao [vấn đề xảy ra]? →Vì sao cả nhóm phải thức đêm dồn việc vào 48 giờ cuối?
+2. Vì sao [câu trả lời 1]? →Vì nhóm không có mốc hạn chót nội bộ (Soft Deadline) cho từng phần việc nhỏ.
+3. Vì sao [câu trả lời 2]? → Vì nhóm không bóc tách đề bài thành các bước nhỏ nên không biết khi nào thì xong một phần.
+4. Vì sao [câu trả lời 3]? →Vì mỗi thành viên chưa hình dung rõ phần việc của mình cụ thể gồm những mục nào và đầu ra ra sao.
+5. Vì sao [câu trả lời 4]? →Nhóm có thói quen "chia đề mục lớn rồi để đó", thiếu quy trình lập kế hoạch chi tiết (Task Breakdown) và cơ chế theo dõi tiến độ từng ngày ngay từ khi nhận đề.*(nguyên nhân gốc)*
 
-*Người viết phần này: …*
+*Người viết phần này:Phạm Quốc Huy*
 
 ### 4. Ba giải pháp đã thử
 
 Ai thử cái nào, trong bao lâu, kết quả đo lại ra sao. Ghi cả cái thất bại.
 
-| Giải pháp | Ai thử | Trong bao lâu | Kết quả đo lại | Thành công / thất bại |
+| Giải pháp | Ai thử | Trong bao lâu | Kết quả đo lại | Thành công / Thất bại |
 |---|---|---|---|---|
-| … | … | … | … | … |
-| … | … | … | … | … |
-| … | … | … | … | … |
-
-*Người viết phần này: …*
+| **1. Spam nhắn tin nhắc nhở liên tục trên nhóm Zalo** | Nguyễn Trọng Sơn | 3 ngày | Tin nhắn bị trôi, thành viên cảm thấy bị phiền; đến ngày 6 vẫn có người hỏi "bây giờ làm gì". | **Thất bại** (Chỉ giải quyết phần ngọn, gây tâm lý ức chế). |
+| **2. Thiết lập Hạn nộp nội bộ (Internal Deadline) trước 3 ngày** | Phạm Văn Hùng | 4 ngày | 3/5 người nộp đúng hạn nội bộ; 2 người trễ nhưng nhóm vẫn còn đủ 24h để tổng hợp và sửa chữa. | **Thành công một phần** (Giảm áp lực dồn giờ chót nhưng vẫn còn thành viên trễ hạn). |
+| **3. Lập Bảng Phân công chi tiết trên Google Sheet + Họp Checkpoint 15 phút giữa tuần** | Phạm Quốc Huy | 7 ngày | 100% thành viên rõ việc, không còn câu hỏi ngô nghê ở ngày sát nộp; bài hoàn thiện trước hạn chính 12 giờ. | **Thành công** (Giải quyết triệt để nguyên nhân gốc). |
+*Người viết phần này: Phạm Văn Hùng*
 
 ### 5. Cẩm nang cho người sau
 
 Giữ gì, bỏ gì, và một lời cảnh báo cụ thể cho nhóm khoá sau.
 
-**Giữ:** …
+**Giữ:** Luôn chia deadline thành 3 phần bắt buộc:
 
-**Bỏ:** …
+Phần 1 (30% thời gian): Nộp dàn ý chi tiết / Cấu trúc sơ bộ.
 
-**Cảnh báo cụ thể cho nhóm khoá sau:** …
+Phần 2 (70% thời gian): Nộp bản nháp nội dung (Draft).
 
-*Người viết phần này: …*
+Phần 3 (100% thời gian - Trước hạn chính 24h): Ghép bài, đồng bộ giọng văn và chốt bản cuối.
 
+**Bỏ:** <br>Bỏ ngay suy nghĩ "Đến hạn nội bộ mới cần mở file ra làm".
+
+Bỏ thói quen ghép bài sát giờ nộp rồi bấm nộp luôn mà không đọc lại toàn bộ.
+
+**Cảnh báo cụ thể cho nhóm khoá sau:** Nếu không chốt hạn nội bộ cho từng bước nhỏ, chắc chắn 80% công việc sẽ dồn vào đêm cuối cùng. Bài viết lúc 3 giờ sáng luôn là một thảm họa ghép vội với 3 giọng văn khác nhau và đầy lỗi trùng lặp!
+
+*Người viết phần này:Nguyễn Đăng Khoa*
 ## 1. Cách chia việc
 
-…
+- Cách chia việc cho nhóm: Tùy theo các điểm mạnh của nhóm mà chia theo năng lực, người làm tốt slide thì làm slide, người sáng tạo đưa ra nội dung hợp lý
 
-*Người viết phần này: …*
-
+*Người viết phần này: Nguyễn Trọng Sơn*
 ## 2. Cách đặt hạn cho nhau
 
-…
+-Cách đặt hạn: Đặt hạn làm sao cho hợp lý. Chẳng hạn có một bạn bị kẹt vì vấn đề gì đó có thể cho bạn hạn thêm 2 ngày, còn không bị kẹt thì từ lúc deadline bắt đầu sẽ là 4 ngày cho từng người
 
-*Người viết phần này: …*
+*Người viết phần này: Phạm Văn Hùng*
 
 ## 3. Cách họp
 
 Họp ở đâu, bao lâu một lần, mỗi lần bao nhiêu phút, ai chốt kết luận.
 
-…
+- Họp ở thư viện hoặc họp online, trong tầm 1 tiếng rưỡi đến 2 tiếng, người chốt kết luận là nhóm trưởng hoặc người đưa ra kết luận hợp lý
 
-*Người viết phần này: …*
+*Người viết phần này: Cả nhóm*
 
 ## 4. Khi một người mất tích
 
-…
+-Khi một người mất tích nhóm sẽ réo tên trên nhóm, gọi điện để nhắc. Còn nếu mất tích luôn sẽ giao phần deadline đó cho người nào làm với cách là sẽ tăng điểm cho người đó và báo cáo với giảng viên về người "mất tích"
 
-*Người viết phần này: …*
+*Người viết phần này:Cả nhóm*
 
 ## 5. Khi bất đồng thì quyết thế nào
 
-…
+-Nếu nhóm xảy ra bất đồng với nhóm trưởng sẽ xem xét từ vấn đề gốc để đưa ra hướng đi hợp lý hơn cho các bạn, xoa dịu tình hình bằng những câu đùa, sau đó lại trở lại với deadline khi đã phân hợp lý
 
-*Người viết phần này: …*
+*Người viết phần này:Cả nhóm*
 
 ## Nhóm tôi đã cãi nhau ở chỗ nào
 
 Viết thật. Nhóm nào cũng có, và chỗ đó thường là chỗ đáng ghi nhất.
 
-…
+-Nhóm tôi thường cãi nhau ở khâu phân chia công việc, có người lười có người chăm. Cãi nhau ở chỗ nội dung từng người có hợp lý hay chưa.
 
 ## Tôi đã làm việc với AI thế nào
 
 | Bước | Nhóm đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| Bước | Nhóm đã làm gì |
+|---|---|
+| **Hỏi** | Nhóm gửi đề bài lên AI để nhờ gợi ý dàn ý tổng quát và đề xuất cách xé nhỏ deadline nội bộ cho 5 thành viên. |
+| **Hoài** | Nhóm nghi vấn lại kết quả của AI: Dàn bài AI gợi ý có bị trùng ý giữa các phần không?.Thời gian AI đề xuất có bị gấp quá so với lịch học của nhóm không? để điều chỉnh lại cho thực tế. |
+| **Học** | Dùng AI như một công cụ rà soát: Nhờ AI đọc lại bài ghép thô để chỉ ra những chỗ bị sai lệch hoặc câu từ còn thô sơ, qua đó nhóm biết cách tự sửa lại. |
+| **Hành** | Cả nhóm tự phân công nhau tự tìm tài liệu, tự gõ nội dung chi tiết và tự tổng hợp lại thành bản báo cáo cuối cùng chứ không sao chép nguyên văn từ AI. |
+
