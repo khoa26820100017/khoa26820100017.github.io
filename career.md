@@ -20,9 +20,9 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
 | Kiến thức |Tốt nghiệp Đại học Chính quy loại Khá trở lên, chuyên ngành Công nghệ thông tin có kinh nghiệm từ 3-4 năm trở lên ở vị trí Senior hoặc từ 1 năm kinh nghiệm ở vị trí Leader Tester| Tốt nghiệp Đại học trở lên các chuyên ngành: Công nghệ thông tin, Toán Tin, Điện tử Viễn thông.Ngoại ngữ: Tiếng Anh giao tiếp hoặc có chứng chỉ TOEIC / IELTS tương đương là một lợi thế.Có kinh nghiệm vận hành giám sát hệ thống và dịch vụ trên OnPremise cũng như Cloud (Private Cloud, Public Cloud).Có hiểu biết nền tảng về hệ điều hành (Windows, Linux, AIX).|...| một phần |
-| Kỹ năng | Sử dụng thành thạo SQL để truy vấn và kiểm tra toàn vẹn dữ liệu (Data Integrity).Có tư duy về Security Testing (kiểm thử bảo mật) là một lợi thế. Kỹ năng giải quyết vấn đề và quản lý thời gian hiệu quả dưới áp lực dự án.| Kỹ năng làm việc nhóm và làm việc độc lập tốt, sẵn sàng trực ca đêm. Ưu tiên ứng viên đã từng tham gia vận hành các hệ thống CNTT trong ngành Ngân hàng, Tài chính, Chứng khoán, Bảo hiểm, Ecommerce hoặc các Công ty Công nghệ lớn. Tư duy logic tốt. | Có hiểu biết nền tảng về hệ điều hành (Windows, Linux, AIX). Có kinh nghiệm vận hành giám sát hệ thống và dịch vụ trên OnPremise cũng như Cloud (Private Cloud, Public Cloud) | … |
-| Thái độ | Ham học hỏi,chấp nhận mọi thử thách |cẩn trọng và có tinh thần trách nhiệm cao với sản phẩm,Cẩn thận, trung thực, có tinh thần trách nhiệm cao| … | … |
-| Công cụ | các công cụ kiểm thử (Postman, Jmeter...) | Có kinh nghiệm sử dụng các tools giám sát như (Zabbix, Grafana, ELK, Oracle CloudControl, tool SQL, v.v) | … | … |
+| Kỹ năng | Sử dụng thành thạo SQL để truy vấn và kiểm tra toàn vẹn dữ liệu (Data Integrity).Có tư duy về Security Testing (kiểm thử bảo mật) là một lợi thế. Kỹ năng giải quyết vấn đề và quản lý thời gian hiệu quả dưới áp lực dự án.| Kỹ năng làm việc nhóm và làm việc độc lập tốt, sẵn sàng trực ca đêm. Ưu tiên ứng viên đã từng tham gia vận hành các hệ thống CNTT trong ngành Ngân hàng, Tài chính, Chứng khoán, Bảo hiểm, Ecommerce hoặc các Công ty Công nghệ lớn. Tư duy logic tốt. | | một phần |
+| Thái độ | Ham học hỏi,chấp nhận mọi thử thách |cẩn trọng và có tinh thần trách nhiệm cao với sản phẩm,Cẩn thận, trung thực, có tinh thần trách nhiệm cao| … | một phần |
+| Công cụ | các công cụ kiểm thử (Postman, Jmeter...) | Có kinh nghiệm sử dụng các tools giám sát như (Zabbix, Grafana, ELK, Oracle CloudControl, tool SQL, v.v) | … | một phần|
 
 ## Ba tin tuyển dụng
 
