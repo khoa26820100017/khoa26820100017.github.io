@@ -58,9 +58,9 @@ Tình huống: thu thập vị trí người dùng mà không khai báo trong ch
 
 ## Ba việc tôi làm trong học kỳ này
 
-1. …
-2. …
-3. …
+1. Tìm kiếm thông tin
+2. Tổng hợp thông tin
+3. Sửa chữa những vị trí bị sai khi điền thông tin
 
 Cụ thể tới mức tháng sau kiểm được.
 
@@ -68,9 +68,9 @@ Cụ thể tới mức tháng sau kiểm được.
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
+| **Hỏi** | Hỏi những thông tin bị sai vị trí |
+| **Hoài** | Tổng hợp thông tin bị sai vị trí và sửa lại |
+| **Học** | Học cách đưa đúng thông tin về các vị trí thông tin cần đặt vào |
 | **Hành** | … |
 
 Công cụ đã dùng: …
