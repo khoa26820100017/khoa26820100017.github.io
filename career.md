@@ -20,7 +20,7 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
 | Kiến thức |Tốt nghiệp Đại học Chính quy loại Khá trở lên, chuyên ngành Công nghệ thông tin có kinh nghiệm từ 3-4 năm trở lên ở vị trí Senior hoặc từ 1 năm kinh
-nghiệm ở vị trí Leader Tester| Tốt nghiệp Đại học trở lên các chuyên ngành: Công nghệ thông tin, Toán Tin, Điện tử Viễn thông.|...| chưa / một phần / rồi |
+nghiệm ở vị trí Leader Tester| Tốt nghiệp Đại học trở lên các chuyên ngành: Công nghệ thông tin, Toán Tin, Điện tử Viễn thông.|...|...| chưa / một phần / rồi |
 | Kỹ năng | Unit, Integration, System, Regression, Performance và UAT.Sử dụng thành thạo SQL để truy vấn và kiểm tra toàn vẹn dữ liệu (Data Integrity).Sử dụng các công cụ quản lý lỗi (Jira ..) .Có tư duy về Security Testing (kiểm thử bảo mật) là một lợi thế.Biết về Automation (Selenium, Appium).Kỹ năng giải quyết vấn đề và quản lý thời gian hiệu quả dưới áp lực dự án.Khả năng giao tiếp, truyền đạt và thuyết phục tốt.| Kỹ năng làm việc nhóm và làm việc độc lập tốt, sẵn sàng trực ca đêm. | Có hiểu biết nền tảng về hệ điều hành (Windows, Linux, AIX).
 Có kinh nghiệm vận hành giám sát hệ thống và dịch vụ trên OnPremise cũng như Cloud (Private Cloud, Public Cloud) | … |
 | Thái độ | Ham học hỏi,chấp nhận mọi thử thách | Tư duy logic tốt, cẩn trọng và có tinh thần trách nhiệm cao với sản phẩm,Cẩn thận, trung thực, có tinh thần trách nhiệm cao| … | … |
