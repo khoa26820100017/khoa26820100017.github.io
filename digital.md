@@ -25,13 +25,13 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 
 | # | Nhóm năng lực | Mức của tôi | Bằng chứng, mô tả bằng lời |
 |---|---|---|---|
-| 1 | Vận hành thiết bị và phần mềm | … | … |
-| 2 | Năng lực thông tin và dữ liệu | … | … |
-| 3 | Giao tiếp và hợp tác trong môi trường số | … | … |
-| 4 | Sáng tạo nội dung số | … | … |
-| 5 | An ninh và an toàn trên không gian mạng | … | … |
-| 6 | Học tập và phát triển kỹ năng số | … | … |
-| 7 | Năng lực số liên quan đến nghề nghiệp | … | … |
+| 1 | Vận hành thiết bị và phần mềm |đang tập| chưa có |
+| 2 | Năng lực thông tin và dữ liệu |đang tập| chưa có |
+| 3 | Giao tiếp và hợp tác trong môi trường số | đang tập | chưa có |
+| 4 | Sáng tạo nội dung số | chưa có | chưa có |
+| 5 | An ninh và an toàn trên không gian mạng |đang tập| chưa có |
+| 6 | Học tập và phát triển kỹ năng số | đang tập |chưa có |
+| 7 | Năng lực số liên quan đến nghề nghiệp | đang tập |chưa có |
 
 ## Ba việc tôi sẽ sửa trong tháng này
 
