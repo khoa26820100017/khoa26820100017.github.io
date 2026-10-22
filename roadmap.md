@@ -17,8 +17,8 @@ title: Bản đồ học tập bốn năm
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 1 | … | … | … |
-| 1 | … | … | … |
+| 1 | CMP175 | Lập trình Web |3(3,0)|
+| 1 | CMP170 | Lập trình trên môi trường Windows  | 3(3,0) |
 | 2 | … | … | … |
 
 ### Năm hai
@@ -33,14 +33,14 @@ title: Bản đồ học tập bốn năm
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
 | 5 | … | … | … |
-| 6 | … | … | … |
+| 6 |  CMP175 | Lập trình Web |3(3,0)|
 
 ### Năm tư
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 7 | … | … | … |
-| 8 | … | … | … |
+| 7 | CMP170 | Lập trình trên môi trường Windows  | 3(3,0) |
+| 8 | … | Thực tập tốt nghiệp ĐH công nghệ thông tin  | 3(3,0) |
 
 **Tổng cộng: … tín chỉ.** Phải khớp với số tín chỉ tích luỹ của chương trình.
 Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa ra một môn không có thật.
