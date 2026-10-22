@@ -10,19 +10,19 @@ title: Nhật ký dùng AI
 
 | Bài | Công cụ | Vai | Tôi nhờ nó làm gì | Tôi đã sửa lại gì |
 |---|---|---|---|---|
-| 1 | … | Sinh bản nháp + Đối tác phản biện | … | … |
-| 2 | … | Đối tác phản biện | … | … |
-| 3 | … | Sinh bản nháp | … | … |
-| 4 | … | Người kèm cặp | … | … |
-| 5 | … | Đối tác phản biện | … | … |
+| 1 | Gemini | Sinh bản nháp + Đối tác phản biện | Nháp lại những lỗi sai của tôi và đưa những điều hợp lí hơn cho bài | những thông tin sau khi đối chiếu đủ |
+| 2 | Chat GPT và Grok | Đối tác phản biện | Kiểm tra và phản biện những lỗi sai khi làm việc | sửa lại những lỗi sai sau khi đối chiếu thông tin |
+| 3 | Notebook LM | Sinh bản nháp | ghi những tài liệu cần được ghi chú | không sửa những gì cả |
+| 4 | Deepseek | Người kèm cặp | Kiếm những thông tin bổ ích cho bài làm | tìm kiếm những lỗi sai cơ bản khi trình bày |
+| 5 | Grok | Đối tác phản biện | kiểm tra để sửa lại lỗi sai | những lỗi sai cơ bản |
 | 6 | … | … | … | … |
 
 ## Ba lần nó nói sai mà tôi bắt được
 
-1. …
+1. Lỗi sai về cách trình bày
 2. …
 3. …
 
 ## Điều tôi học được về cách làm việc với nó
 
-…
+Tôi học được về cách làm việc rằng chúng ta cần phải đưa ra những yêu cầu phù hợp để tránh những lỗi sai cơ bản và không cần thiết
