@@ -8,16 +8,16 @@ title: Soi một công cụ AI
 > Chọn năm câu mà em **đã biết chắc đáp án**. Hỏi thứ mình không biết
 > thì không có gì để đối chiếu, và mọi câu trả lời đều nghe hợp lý như nhau.
 
-**Công cụ đã thử:** … · **Ngày thử:** …
+**Công cụ đã thử:** Gemini · **Ngày thử:** 15/10/2026
 
 ## Bảng kiểm thử năm câu
 
 | # | Câu tôi hỏi | Nó trả lời gì | Đúng / Sai | Sai ở chỗ nào | Tôi kiểm bằng nguồn nào | Bài học |
 |---|---|---|---|---|---|---|
-| 1 | … | … | … | … | … | … |
-| 2 | … | … | … | … | … | … |
-| 3 | … | … | … | … | … | … |
-| 4 | … | … | … | … | … | … |
+| 1 | Viết văn nghị luận có bao nhiêu phần | Một bài văn nghị luận tiêu chuẩn thường gồm 3 phần chính:Mở Bài,Thân Bài,Kết Bài| Đúng | không sai chỗ nào | Kiến thức cơ bản khi viết văn nghị luận | những kiến thức cơ bản thì A.I có thể trả lời đúng hoặc gần đúng những kiến thức đó |
+| 2 | 1 gigabyte bằng bao nhiêu megabyte | 1 Gigabyte (GB) = 1.024 Megabyte (MB) | Đúng | không sai chỗ nào | kiến thức cơ bản về các đơn vị đo dung lượng dữ liệu  | Có những kiến thức cơ bản AI trả lời đúng nhưng mình vẫn nên biết cách kiểm tra lại |
+| 3 | 250 x 5 | 250 x 5 = 1.250 | Đúng | không sai | tôi tự tính | những câu hỏi về tính toán cơ bản thì chúng ta không nên phụ thuộc vào A.I |
+| 4 | tổ hợp phím đổi tab nhanh trên window | Ctrl + Tab: Chuyển sang tab thư mục kế tiếp. | Đúng | không sai | tôi đã tự thao tác nhiều lần | Với những câu hỏi thực tế, có thể kiểm tra trực tiếp thay vì chỉ tin vào câu trả lời của A.I |
 | 5 | … | … | … | … | … | … |
 
 Chép **nguyên văn** câu trả lời, kể cả chỗ nó nói đúng. So hai bên mới thấy
